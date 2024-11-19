@@ -1,4 +1,4 @@
-package CH00_HelloWorld;
+package Java_PreEducation.CH00_HelloWorld;
 
 public class HelloWorldApp { // 앱을 실행하기 위해, 파일명과 클래스명은 동일해야 한다.
     public static void main(String[] args) { // 앱 실행 시 JVM은 가장 먼저 약속된 이름인 main 메서드를 찾음

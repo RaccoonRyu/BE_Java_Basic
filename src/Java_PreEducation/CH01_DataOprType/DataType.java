@@ -1,4 +1,4 @@
-package CH01_DataOprType;
+package Java_PreEducation.CH01_DataOprType;
 
 public class DataType {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CH04_InputOutput;
+package Java_PreEducation.CH04_InputOutput;
 
 import javax.swing.*;
 

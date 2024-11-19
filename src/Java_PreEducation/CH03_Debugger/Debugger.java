@@ -1,4 +1,4 @@
-package CH03_Debugger;
+package Java_PreEducation.CH03_Debugger;
 
 public class Debugger {
     public static void main(String[] args) {

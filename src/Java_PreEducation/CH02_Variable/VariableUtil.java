@@ -1,4 +1,4 @@
-package CH02_Variable;
+package Java_PreEducation.CH02_Variable;
 
 public class VariableUtil {
     public static void main(String[] args) {

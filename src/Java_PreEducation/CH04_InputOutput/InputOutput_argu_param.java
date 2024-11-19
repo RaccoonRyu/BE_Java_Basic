@@ -1,4 +1,4 @@
-package CH04_InputOutput;
+package Java_PreEducation.CH04_InputOutput;
 
 public class InputOutput_argu_param {
     public static void main(String[] args) {
